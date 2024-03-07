@@ -1,4 +1,5 @@
-#include"IRremote2.h"
+//Autor- Matěj Fr.
+#include"IRremote.h" //nezapomenout správnou knihovnu z CD
 #define pinIN 7
 
 IRrecv dalkoveOvl(pinIN);
